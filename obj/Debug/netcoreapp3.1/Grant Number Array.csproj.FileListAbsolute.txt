@@ -1,0 +1,13 @@
+C:\Projetos\leanwork\atividade_1\Grant Number Array\obj\Debug\netcoreapp3.1\Grant Number Array.csprojAssemblyReference.cache
+C:\Projetos\leanwork\atividade_1\Grant Number Array\obj\Debug\netcoreapp3.1\Grant Number Array.AssemblyInfoInputs.cache
+C:\Projetos\leanwork\atividade_1\Grant Number Array\obj\Debug\netcoreapp3.1\Grant Number Array.AssemblyInfo.cs
+C:\Projetos\leanwork\atividade_1\Grant Number Array\obj\Debug\netcoreapp3.1\Grant Number Array.csproj.CoreCompileInputs.cache
+C:\Projetos\leanwork\atividade_1\Grant Number Array\bin\Debug\netcoreapp3.1\Grant Number Array.exe
+C:\Projetos\leanwork\atividade_1\Grant Number Array\bin\Debug\netcoreapp3.1\Grant Number Array.deps.json
+C:\Projetos\leanwork\atividade_1\Grant Number Array\bin\Debug\netcoreapp3.1\Grant Number Array.runtimeconfig.json
+C:\Projetos\leanwork\atividade_1\Grant Number Array\bin\Debug\netcoreapp3.1\Grant Number Array.runtimeconfig.dev.json
+C:\Projetos\leanwork\atividade_1\Grant Number Array\bin\Debug\netcoreapp3.1\Grant Number Array.dll
+C:\Projetos\leanwork\atividade_1\Grant Number Array\bin\Debug\netcoreapp3.1\Grant Number Array.pdb
+C:\Projetos\leanwork\atividade_1\Grant Number Array\obj\Debug\netcoreapp3.1\Grant Number Array.dll
+C:\Projetos\leanwork\atividade_1\Grant Number Array\obj\Debug\netcoreapp3.1\Grant Number Array.pdb
+C:\Projetos\leanwork\atividade_1\Grant Number Array\obj\Debug\netcoreapp3.1\Grant Number Array.genruntimeconfig.cache
